@@ -45,13 +45,10 @@
       羊了个羊模式
     </a-button>
     <a-button block style="margin-bottom: 16px" @click="() => toGamePage()">
-      自定义 🔥
-    </a-button>
-    <my-ad />
-    <div class="footer">
+ 
       鱼了个鱼 ©2022 by
       <a href="https://github.com/liyupi" target="_blank" style="color: #fff">
-        程序员鱼皮
+        作者不说晚安
       </a>
       |
       <a
@@ -59,7 +56,7 @@
         target="_blank"
         style="color: #fff"
       >
-        代码开源
+        
       </a>
     </div>
   </div>
